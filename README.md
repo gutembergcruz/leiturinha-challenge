@@ -11,8 +11,8 @@ Ver protótipo: https://www.figma.com/file/lwW4FOY79uFAegkZkwMwTz/Untitled?node-
 
 
 ## Como rodar o projeto💻
-1 - Baixe ou clone o repositório;
-2 - Abra o terminal na pasta do p-rojeto;
-3 - Execulte o comando 'yarn install' para instalar todas as dependêndias do projeto.
-4 - Execulte o comando 'yarn start' para rodar o projeto usando webpack.
+1 - Baixe ou clone o repositório; <br>
+2 - Abra o terminal na pasta do p-rojeto; <br>
+3 - Execulte o comando 'yarn install' para instalar todas as dependêndias do projeto; <br>
+4 - Execulte o comando 'yarn start' para rodar o projeto usando webpack; <br>
 5 - Acesse o projeto usando a url: http://localhost:3000
